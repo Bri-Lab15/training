@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+
 
 # COLORS USED IN THE GAME
 COLORS = %w[R G B Y O P]  # Red, Green, Blue, Yellow, Orange, Purple

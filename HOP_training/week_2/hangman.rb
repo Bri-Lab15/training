@@ -1,13 +1,4 @@
-#!/usr/bin/env ruby
-# hangman.rb
-#
-# Usage:
-#   ruby hangman.rb
-#
-# You should have a dictionary file in the same folder named:
-#   google-10000-english-no-swears.txt
-# or run with:
-#   DICT=path/to/dict.txt ruby hangman.rb
+# Hangman Game
 
 require 'yaml'
 require 'fileutils'
